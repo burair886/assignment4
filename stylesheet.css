@@ -1,0 +1,203 @@
+.navbar{
+	background-color: #424242 !important;
+
+}
+
+.nav-link{
+	color: #ECEFF1 !important;
+	font-weight: bold !important;
+}
+
+.fa-shopping-cart{
+	color: white;
+	font-size: 25px !important;
+	padding-top: 7px !important;
+}
+
+.fa-users{
+	color: white;
+	font-size: 25px !important;
+	padding-top: 7px !important;
+	margin-left: 5px: 
+}
+
+.fa-truck,.fa-life-ring,.fa-book{
+	font-size: 25px !important;
+}
+
+.card1,.card2,.card3{
+	display: flex ;
+	width: 300px;
+	height: 100px;
+	background-color: white;
+	box-shadow: 2px 4px 5px black;
+	align-items: center;
+	background-color: #424242;
+	color:#ECEFF1 ;
+
+}
+
+.maincard{
+	margin-top: 40px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
+}
+
+.tex1{
+	margin-top: 20px;
+}
+
+.card{
+	background-color: #424242;
+
+}
+
+.card-title{
+	color: #ECEFF1;
+}
+
+.btn-primary{
+	background-color: #ECEFF1;
+	color:#424242; 
+}
+
+.col{
+	justify-content: space-around !important;
+	flex-wrap: wrap !important;
+}
+
+.p{
+	color: white ;
+	line-height: 25px;
+
+}
+
+h2,h3{
+	color: #fff;
+}
+
+h2{
+	font-size: 18px;
+}
+
+.footer-top{
+	background: #424242;
+	padding: 80px 0;
+}
+
+.segment-one h3{
+	font-family: cursive;
+	color: #fff;
+	letter-spacing: 3px;
+	margin: 10px 0;
+}
+
+.segment-two h2{
+	color: #fff;
+	font-family: cursive;
+	text-transform: uppercase;
+}
+
+.segment-two h2:before{
+	content: '|';
+	color: black;
+	padding-right: 10px;
+}
+
+.segment-two ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.segment-two ul li{
+	border-bottom: 1px solid white;
+	line-height: 40px;
+}
+
+..segment-two ul li a{
+	color: #999;
+	text-decoration: none;
+}
+
+.segment-three h2{
+	color: #fff;
+	font-family: cursive;
+	text-transform: uppercase;
+
+}
+
+.segment-three h2:before{
+	content: '|';
+	color: black;
+	padding-right: 10px;
+}
+
+.segment-three a{
+	background: #494848;
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	border-radius: 50%;	
+}
+
+.segment-three a i{
+	font-size: 20px;
+	color: #fff;
+	padding: 10px 12px;
+}
+
+.segment-four h2{
+	color: #fff;
+	font-family: cursive;
+	text-transform: uppercase;
+	padding-top: 20px;
+}
+
+.segment-four h2:before{
+	content: '|';
+	color: black;
+	padding-right: 10px;
+}
+
+.segment-four form input[type=submit]{
+	background: #c65039;
+	border:none;
+	padding:3px 15px;
+	margin-left: -5px;
+	color: #fff;
+	text-transform: uppercase; 
+}
+
+.footer-botton-text{
+	text-align: center;
+	background: #000;
+	line-height: 75px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px ){
+	.md-mb-30{
+		margin-bottom: 30px;
+	}
+}
+
+.b{
+	background-color:#424242  ;
+	text-align: center;
+	color: #ECEFF1 !important;
+	font-weight: bold !important;
+}
+.tex{
+	background-color: #424242 !important;
+	color: #ECEFF1 !important;
+	font-weight: bold !important;
+}
+
+
+.img-fluid{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
